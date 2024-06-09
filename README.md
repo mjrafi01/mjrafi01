@@ -1,4 +1,4 @@
-![MERN Stack Web Developer](https://ibb.co/6yYstKG)
+![MERN Stack Web Developer](https://i.ibb.co/6yYstKG/githubcover.png)
 <h1 align="center">Hi 👋, I'm Misskat Jahan Rafe</h1>
 <h3 align="center">👑 A Front-End Web Developer</h3>
 
