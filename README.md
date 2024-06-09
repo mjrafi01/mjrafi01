@@ -1,4 +1,4 @@
-![MERN Stack Web Developer](https://i.ibb.co/3rmHLgw/githubcover.png)
+![MERN Stack Web Developer]([https://i.ibb.co/3rmHLgw/githubcover.png](https://github.com/mjrafi01/mjrafi01/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(2).png))
 <h1 align="center">Hi 👋, I'm Misskat Jahan Rafe</h1>
 <h3 align="center">👑 A Front-End Web Developer</h3>
 
